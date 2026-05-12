@@ -1,0 +1,15 @@
+{
+  "name": "LLM_ccq4",
+  "created": "2026-05-12",
+  "package_root": "D:\\CC_OpenCl_Driver_Enterprise\\LLM_ccq4",
+  "ccq4_tensor_count": 851,
+  "ccq4_bytes": 3862787075.0,
+  "total_file_count": 1041,
+  "total_bytes": 3909324179.0,
+  "driver_dll": "driver/build/CC_OpenCl.dll",
+  "runtime": "runtime/gemma_runtime",
+  "driver_ctypes": "runtime/subqg_tests/cc_driver.py",
+  "model_dir": "model/ccq4",
+  "tokenizer": "model/tokenizer/tokenizer.json",
+  "smoke_test": "passed: 1 layer, 7 resident matrices on gpu 1"
+}

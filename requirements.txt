@@ -1,0 +1,3 @@
+# Runtime inference path is dependency-free and uses Python standard library only.
+# Optional tooling for rebuilding/downloading upstream HuggingFace safetensors:
+# huggingface_hub
